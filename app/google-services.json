@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625948245765",
+    "project_id": "top-site-5b516",
+    "storage_bucket": "top-site-5b516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625948245765:android:f3769d5572615465f6416c",
+        "android_client_info": {
+          "package_name": "snakex.topsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625948245765-9shcpd3gvufhp2svcm8meblf57ffb3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_st2etUaEDkWyytM0Vx5EhP-jQ_QSF7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625948245765-9shcpd3gvufhp2svcm8meblf57ffb3e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
